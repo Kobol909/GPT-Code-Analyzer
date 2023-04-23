@@ -1,0 +1,10 @@
+openai
+python-dotenv
+html2text
+markdown
+unidiff
+PyGithub
+logging
+pytest
+pytest-mock
+ossaudiodev
